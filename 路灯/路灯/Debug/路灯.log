@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\杨强\desktop\vs2015\路灯\路灯\main.cpp(27): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\杨强\desktop\vs2015\路灯\路灯\main.cpp(30): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\杨强\desktop\vs2015\路灯\路灯\main.cpp(34): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\杨强\desktop\vs2015\路灯\路灯\main.cpp(11): warning C4101: “value”: 未引用的局部变量
+  路灯.vcxproj -> C:\Users\杨强\Desktop\vs2015\路灯\Debug\路灯.exe

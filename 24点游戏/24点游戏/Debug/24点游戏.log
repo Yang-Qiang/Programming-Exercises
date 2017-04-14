@@ -1,0 +1,103 @@
+﻿  main.c
+d:\microsoft visual studio 14.0\vc\include\cstdint(18): error C2054: 在“using”之后应输入“(”
+d:\microsoft visual studio 14.0\vc\include\cstdint(18): error C2061: 语法错误: 标识符“using”
+d:\microsoft visual studio 14.0\vc\include\cstdint(19): error C2054: 在“using”之后应输入“(”
+d:\microsoft visual studio 14.0\vc\include\cstdint(19): error C2061: 语法错误: 标识符“using”
+d:\microsoft visual studio 14.0\vc\include\cstdint(20): error C2054: 在“using”之后应输入“(”
+d:\microsoft visual studio 14.0\vc\include\cstdint(20): error C2061: 语法错误: 标识符“using”
+d:\microsoft visual studio 14.0\vc\include\cstdint(21): error C2054: 在“using”之后应输入“(”
+d:\microsoft visual studio 14.0\vc\include\cstdint(21): error C2061: 语法错误: 标识符“using”
+d:\microsoft visual studio 14.0\vc\include\cstdint(23): error C2054: 在“using”之后应输入“(”
+d:\microsoft visual studio 14.0\vc\include\cstdint(23): error C2061: 语法错误: 标识符“using”
+d:\microsoft visual studio 14.0\vc\include\cstdint(24): error C2054: 在“using”之后应输入“(”
+d:\microsoft visual studio 14.0\vc\include\cstdint(24): error C2061: 语法错误: 标识符“using”
+d:\microsoft visual studio 14.0\vc\include\cstdint(25): error C2054: 在“using”之后应输入“(”
+d:\microsoft visual studio 14.0\vc\include\cstdint(25): error C2061: 语法错误: 标识符“using”
+d:\microsoft visual studio 14.0\vc\include\cstdint(26): error C2054: 在“using”之后应输入“(”
+d:\microsoft visual studio 14.0\vc\include\cstdint(26): error C2061: 语法错误: 标识符“using”
+d:\microsoft visual studio 14.0\vc\include\cstdint(28): error C2054: 在“using”之后应输入“(”
+d:\microsoft visual studio 14.0\vc\include\cstdint(28): error C2061: 语法错误: 标识符“using”
+d:\microsoft visual studio 14.0\vc\include\cstdint(29): error C2054: 在“using”之后应输入“(”
+d:\microsoft visual studio 14.0\vc\include\cstdint(29): error C2061: 语法错误: 标识符“using”
+d:\microsoft visual studio 14.0\vc\include\cstdint(30): error C2054: 在“using”之后应输入“(”
+d:\microsoft visual studio 14.0\vc\include\cstdint(30): error C2061: 语法错误: 标识符“using”
+d:\microsoft visual studio 14.0\vc\include\cstdint(31): error C2054: 在“using”之后应输入“(”
+d:\microsoft visual studio 14.0\vc\include\cstdint(31): error C2061: 语法错误: 标识符“using”
+d:\microsoft visual studio 14.0\vc\include\cstdint(33): error C2054: 在“using”之后应输入“(”
+d:\microsoft visual studio 14.0\vc\include\cstdint(33): error C2061: 语法错误: 标识符“using”
+d:\microsoft visual studio 14.0\vc\include\cstdint(34): error C2054: 在“using”之后应输入“(”
+d:\microsoft visual studio 14.0\vc\include\cstdint(34): error C2061: 语法错误: 标识符“using”
+d:\microsoft visual studio 14.0\vc\include\cstdint(36): error C2061: 语法错误: 标识符“tr1”
+d:\microsoft visual studio 14.0\vc\include\cstdint(36): error C2059: 语法错误:“;”
+d:\microsoft visual studio 14.0\vc\include\cstdint(36): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+d:\microsoft visual studio 14.0\vc\include\cstdint(54): error C2059: 语法错误:“}”
+d:\microsoft visual studio 14.0\vc\include\cstdlib(18): error C2054: 在“using”之后应输入“(”
+d:\microsoft visual studio 14.0\vc\include\cstdlib(18): error C2061: 语法错误: 标识符“using”
+d:\microsoft visual studio 14.0\vc\include\cstdlib(19): error C2061: 语法错误: 标识符“using”
+d:\microsoft visual studio 14.0\vc\include\cstdlib(19): error C2061: 语法错误: 标识符“abs”
+d:\microsoft visual studio 14.0\vc\include\cstdlib(19): error C2059: 语法错误:“;”
+d:\microsoft visual studio 14.0\vc\include\cstdlib(19): error C2061: 语法错误: 标识符“atexit”
+d:\microsoft visual studio 14.0\vc\include\cstdlib(20): error C2061: 语法错误: 标识符“atof”
+d:\microsoft visual studio 14.0\vc\include\cstdlib(20): error C2059: 语法错误:“;”
+d:\microsoft visual studio 14.0\vc\include\cstdlib(20): error C2061: 语法错误: 标识符“atoi”
+d:\microsoft visual studio 14.0\vc\include\cstdlib(20): error C2061: 语法错误: 标识符“atol”
+d:\microsoft visual studio 14.0\vc\include\cstdlib(21): error C2061: 语法错误: 标识符“bsearch”
+d:\microsoft visual studio 14.0\vc\include\cstdlib(21): error C2059: 语法错误:“;”
+d:\microsoft visual studio 14.0\vc\include\cstdlib(21): error C2061: 语法错误: 标识符“calloc”
+d:\microsoft visual studio 14.0\vc\include\cstdlib(21): error C2061: 语法错误: 标识符“div”
+d:\microsoft visual studio 14.0\vc\include\cstdlib(22): error C2061: 语法错误: 标识符“exit”
+d:\microsoft visual studio 14.0\vc\include\cstdlib(22): error C2059: 语法错误:“;”
+d:\microsoft visual studio 14.0\vc\include\cstdlib(22): error C2061: 语法错误: 标识符“free”
+d:\microsoft visual studio 14.0\vc\include\cstdlib(23): error C2061: 语法错误: 标识符“labs”
+d:\microsoft visual studio 14.0\vc\include\cstdlib(23): error C2059: 语法错误:“;”
+d:\microsoft visual studio 14.0\vc\include\cstdlib(23): error C2061: 语法错误: 标识符“ldiv”
+d:\microsoft visual studio 14.0\vc\include\cstdlib(23): error C2061: 语法错误: 标识符“malloc”
+d:\microsoft visual studio 14.0\vc\include\cstdlib(24): error C2061: 语法错误: 标识符“mblen”
+d:\microsoft visual studio 14.0\vc\include\cstdlib(24): error C2059: 语法错误:“;”
+d:\microsoft visual studio 14.0\vc\include\cstdlib(24): error C2061: 语法错误: 标识符“mbstowcs”
+d:\microsoft visual studio 14.0\vc\include\cstdlib(24): error C2061: 语法错误: 标识符“mbtowc”
+d:\microsoft visual studio 14.0\vc\include\cstdlib(25): error C2061: 语法错误: 标识符“qsort”
+d:\microsoft visual studio 14.0\vc\include\cstdlib(25): error C2059: 语法错误:“;”
+d:\microsoft visual studio 14.0\vc\include\cstdlib(25): error C2061: 语法错误: 标识符“rand”
+d:\microsoft visual studio 14.0\vc\include\cstdlib(25): error C2061: 语法错误: 标识符“realloc”
+d:\microsoft visual studio 14.0\vc\include\cstdlib(26): error C2061: 语法错误: 标识符“srand”
+d:\microsoft visual studio 14.0\vc\include\cstdlib(26): error C2059: 语法错误:“;”
+d:\microsoft visual studio 14.0\vc\include\cstdlib(26): error C2061: 语法错误: 标识符“strtod”
+d:\microsoft visual studio 14.0\vc\include\cstdlib(26): error C2061: 语法错误: 标识符“strtol”
+d:\microsoft visual studio 14.0\vc\include\cstdlib(27): error C2061: 语法错误: 标识符“strtoul”
+d:\microsoft visual studio 14.0\vc\include\cstdlib(27): error C2059: 语法错误:“;”
+d:\microsoft visual studio 14.0\vc\include\cstdlib(28): error C2061: 语法错误: 标识符“wcstombs”
+d:\microsoft visual studio 14.0\vc\include\cstdlib(28): error C2059: 语法错误:“;”
+d:\microsoft visual studio 14.0\vc\include\cstdlib(28): error C2061: 语法错误: 标识符“wctomb”
+d:\microsoft visual studio 14.0\vc\include\cstdlib(30): error C2054: 在“using”之后应输入“(”
+d:\microsoft visual studio 14.0\vc\include\cstdlib(33): error C2061: 语法错误: 标识符“using”
+d:\microsoft visual studio 14.0\vc\include\cstdlib(34): error C2061: 语法错误: 标识符“system”
+d:\microsoft visual studio 14.0\vc\include\cstdlib(34): error C2059: 语法错误:“;”
+d:\microsoft visual studio 14.0\vc\include\cstdlib(37): error C2061: 语法错误: 标识符“atoll”
+d:\microsoft visual studio 14.0\vc\include\cstdlib(37): error C2059: 语法错误:“;”
+d:\microsoft visual studio 14.0\vc\include\cstdlib(37): error C2061: 语法错误: 标识符“llabs”
+d:\microsoft visual studio 14.0\vc\include\cstdlib(37): error C2061: 语法错误: 标识符“lldiv”
+d:\microsoft visual studio 14.0\vc\include\cstdlib(38): error C2061: 语法错误: 标识符“strtof”
+d:\microsoft visual studio 14.0\vc\include\cstdlib(38): error C2059: 语法错误:“;”
+d:\microsoft visual studio 14.0\vc\include\cstdlib(38): error C2061: 语法错误: 标识符“strtold”
+d:\microsoft visual studio 14.0\vc\include\cstdlib(39): error C2061: 语法错误: 标识符“strtoll”
+d:\microsoft visual studio 14.0\vc\include\cstdlib(39): error C2059: 语法错误:“;”
+d:\microsoft visual studio 14.0\vc\include\cstdlib(39): error C2061: 语法错误: 标识符“strtoull”
+d:\microsoft visual studio 14.0\vc\include\cstdlib(41): error C2061: 语法错误: 标识符“_Exit”
+d:\microsoft visual studio 14.0\vc\include\cstdlib(41): error C2059: 语法错误:“;”
+d:\microsoft visual studio 14.0\vc\include\cstdlib(41): error C2061: 语法错误: 标识符“at_quick_exit”
+d:\microsoft visual studio 14.0\vc\include\cstdlib(41): error C2061: 语法错误: 标识符“quick_exit”
+d:\microsoft visual studio 14.0\vc\include\cmath(17): error C2143: 语法错误: 缺少“{”(在“<”的前面)
+d:\microsoft visual studio 14.0\vc\include\cmath(17): error C2059: 语法错误:“<”
+d:\microsoft visual studio 14.0\vc\include\cmath(35): error C2061: 语法错误: 标识符“noexcept”
+d:\microsoft visual studio 14.0\vc\include\cmath(35): error C2059: 语法错误:“;”
+d:\microsoft visual studio 14.0\vc\include\cmath(36): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+d:\microsoft visual studio 14.0\vc\include\cmath(38): error C2059: 语法错误:“}”
+d:\microsoft visual studio 14.0\vc\include\cmath(45): error C2061: 语法错误: 标识符“noexcept”
+d:\microsoft visual studio 14.0\vc\include\cmath(45): error C2059: 语法错误:“;”
+d:\microsoft visual studio 14.0\vc\include\cmath(46): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+d:\microsoft visual studio 14.0\vc\include\cmath(48): error C2059: 语法错误:“}”
+d:\microsoft visual studio 14.0\vc\include\cmath(55): error C2061: 语法错误: 标识符“noexcept”
+d:\microsoft visual studio 14.0\vc\include\cmath(55): error C2059: 语法错误:“;”
+d:\microsoft visual studio 14.0\vc\include\cmath(56): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+d:\microsoft visual studio 14.0\vc\include\cmath(56): fatal error C1003: 错误计数超过 100；正在停止编译

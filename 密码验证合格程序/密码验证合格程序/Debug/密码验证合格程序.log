@@ -1,0 +1,6 @@
+﻿  main.c
+c:\users\杨强\desktop\vs2015\密码验证合格程序\密码验证合格程序\main.c(10): warning C4013: “gets”未定义；假设外部返回 int
+c:\users\杨强\desktop\vs2015\密码验证合格程序\密码验证合格程序\main.c(10): warning C4047: “!=”:“int”与“void *”的间接级别不同
+c:\users\杨强\desktop\vs2015\密码验证合格程序\密码验证合格程序\main.c(31): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 参见“strncpy”的声明
+  密码验证合格程序.vcxproj -> C:\Users\杨强\Desktop\vs2015\密码验证合格程序\Debug\密码验证合格程序.exe

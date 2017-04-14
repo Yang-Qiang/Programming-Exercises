@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\杨强\desktop\vs2015\回文串\回文串\main.c(27): warning C4013: “gets”未定义；假设外部返回 int
+c:\users\杨强\desktop\vs2015\回文串\回文串\main.c(27): warning C4047: “!=”:“int”与“void *”的间接级别不同
+  回文串.vcxproj -> C:\Users\杨强\Desktop\vs2015\回文串\Debug\回文串.exe
